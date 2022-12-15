@@ -97,17 +97,16 @@ size (100x100 pixels).
 ![image](https://user-images.githubusercontent.com/42996478/168497307-19b409e6-f218-401b-8c20-b17143e95e05.png)
 
 
-## References[1] https://www.learndatasci.com/tutorials/hands-ontransfer-learning-keras/
-Reference 1
-[2] https://medium.com/@nina95dan/simple-imageclassification-withresnet-50 Reference 2
-[3] https://keras.io/guides/sequential model/ Reference 3
-[4] https://medium.com/nerd-for-tech/vgg-16-easiest-explanation12453b599526 Reference 4
-[5] https://medium.com/mlearning-ai/understanding-efficientnet-the-mostpowerful-cnn-architecture-eaeb40386fad Reference 5
-[6] https://keras.io/examples/vision/image classification efficientnet fine tuning/
-Reference 6
-[7] Classroom Colab Notebooks
-[8] https://machinelearningmastery.com/transfer-learning-for-deep-learning/
-Reference8
-[9] https://medium.com/nerd-for-tech/image-classification-using-transferlearning-vgg-16-2dc2221be34c Reference9
-[10] https://www.turing.com/kb/transfer-learning-using-cnn-vgg16
+## References
+- [1] https://www.learndatasci.com/tutorials/hands-ontransfer-learning-keras/
+
+- [2] https://medium.com/@nina95dan/simple-imageclassification-withresnet-50 Reference 2
+- [3] https://keras.io/guides/sequential model/ Reference 3
+- [4] https://medium.com/nerd-for-tech/vgg-16-easiest-explanation12453b599526 Reference 4
+- [5] https://medium.com/mlearning-ai/understanding-efficientnet-the-mostpowerful-cnn-architecture-eaeb40386fad Reference 5
+- [6] https://keras.io/examples/vision/image classification efficientnet fine tuning/
+- [7] Classroom Colab Notebooks
+- [8] https://machinelearningmastery.com/transfer-learning-for-deep-learning/
+- [9] https://medium.com/nerd-for-tech/image-classification-using-transferlearning-vgg-16-2dc2221be34c Reference9
+- [10] https://www.turing.com/kb/transfer-learning-using-cnn-vgg16
 
