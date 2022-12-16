@@ -60,42 +60,6 @@ size (100x100 pixels).
 
 #### Dataset Distribution
 
-![image](https://user-images.githubusercontent.com/42996478/168496887-a7a8a5d9-77a6-4fac-af17-ed90dfee7c7b.png)
-
-
-
-
-
-
-
-### Algorithms used:
-#### EfficientNetV2 (state of the art)
-
-![image](https://user-images.githubusercontent.com/42996478/168497146-eed6af47-6435-4718-a661-1e4ff52716a1.png)
-![image](https://user-images.githubusercontent.com/42996478/168497158-b9ef82fc-1feb-4287-9aff-de9e249062a4.png)
-![image](https://user-images.githubusercontent.com/42996478/168497153-08deb486-f933-4ae2-b74d-8b715546a2d1.png)
-
-
-#### ViT
-
-![image](https://user-images.githubusercontent.com/42996478/168497209-5e1bb3e8-0852-4723-a62d-fff831f8bb3a.png)
-
-####ResNet50
-
-![image](https://user-images.githubusercontent.com/42996478/168497234-8a92ffcf-ed78-496e-901f-4ce0e4f5b892.png)
-
-#### VGG16
-
-![image](https://user-images.githubusercontent.com/42996478/168497244-bb67dcfc-12d1-41ba-a5b5-1aee0603bebd.png)
-
-#### Sequential Model
-
-
-
-
-### Comparison of the models
-![image](https://user-images.githubusercontent.com/42996478/168497307-19b409e6-f218-401b-8c20-b17143e95e05.png)
-
 
 ## References
 - [1] https://www.learndatasci.com/tutorials/hands-ontransfer-learning-keras/
